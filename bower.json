@@ -1,0 +1,22 @@
+{
+  "name": "lightster",
+  "description": "webserver for smart lights",
+  "main": "index.js",
+  "authors": [
+    "Jameson Knoll <j.knoll621@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
