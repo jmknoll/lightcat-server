@@ -1,5 +1,5 @@
 {
-  "name": "lightster",
+  "name": "lightcat",
   "description": "webserver for smart lights",
   "main": "index.js",
   "authors": [

@@ -1,5 +1,5 @@
 {
-  "name": "lightster",
+  "name": "lightcat",
   "version": "0.0.1",
   "description": "webserver for smart lights",
   "dependencies": {
